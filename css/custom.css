@@ -25,3 +25,10 @@ header .intro-text .name {
   font-size: 4em;
   color: #2f4f4f;
 }
+a, a.active, a:active, a:focus, a:hover{
+  color:white;
+  font-weight: bold;
+}
+a:hover{
+  color: pink;
+}
