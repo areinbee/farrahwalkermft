@@ -5,6 +5,12 @@ header{
 a.success{
     color: white;
 }
+a.darklink{
+  color:#2f4f4f;
+}
+a.darklink:hover{
+  color:#18BC9C;
+}
 body{
 	color:#2f4f4f;
 }
