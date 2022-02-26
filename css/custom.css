@@ -47,6 +47,10 @@ a:hover{
   background-color:black!important;
 }
 
+.speak-dt{
+  color: pink;
+}
+
 #speaking{
   font-size: .75em;
 }
