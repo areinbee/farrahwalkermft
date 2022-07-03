@@ -1,61 +1,31 @@
-header{
-    background-color: white;
-    color: black;
+.home{
+   padding-top: 5%; 
+   padding-bottom: 10%;
 }
-a.success{
-    color: white;
+.home-cards{
+    padding-top: 2%;
 }
-a.darklink{
-  color:#2f4f4f;
+p.highlight-text{
+    font-size: x-large;
 }
-a.darklink:hover{
-  color:#18BC9C;
+h1, h2, h3{
+    font-family: "Segoe UI", Arial, sans-serif;
 }
-body{
-	color:#2f4f4f;
+h1{
+    font-size: x-large;
+    text-transform: uppercase;
 }
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  font-family: "Montserrat", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  font-weight: 500;
+h2{
+    font-size: large;
 }
-header .intro-text .name {
-  display: block;
-  font-family: "Lato", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  text-transform: uppercase;
-  font-weight: 600;
-  font-size: 4em;
-  color: #2f4f4f;
+h3{
+
+    font-weight:  normal;
 }
-a, a.active, a:active, a:focus, a:hover{
-  color:white;
-  font-weight: bold;
+a{
+    color:  green;
 }
 a:hover{
-  color: pink;
+    background: black;
+    color:  white;
 }
-
-.success{
-  background-color:black!important;
-}
-
-.navbar{
-  background-color:black!important;
-}
-
-.speak-dt{
-  color: pink;
-}
-
-#speaking{
-  font-size: .75em;
-}
-
-/*.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus, .nav > li > a:focus{
-    background-color: #5A0016;
-    color: white;
-}*/
