@@ -5,3 +5,6 @@
 */
 // This file is intentionally blank
 // Use this file to add JavaScript to your project
+
+const cloneEl = document.querySelector(".logos-slide").cloneNode(true)
+const logos = document.querySelector('.logos').appendChild(cloneEl);
