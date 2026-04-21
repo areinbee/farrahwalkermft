@@ -32,6 +32,11 @@ a:hover{
     background: black;
     color:  white;
 }
+mark{
+    background-color:green;
+    color:white;
+    font-weight: bolder;
+}
 * {
     margin: 0;
     padding: 0;
